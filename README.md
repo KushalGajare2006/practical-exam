@@ -1,5 +1,4 @@
 # practical-exam
-practical exam asdd
 from flask import Flask, jsonify
 
 app = Flask(__name__)
